@@ -1,2 +1,2 @@
 # Codsoft
-Codsoft Python Programmong Internship Dec 25- Jan 25
+Codsoft Python Programming Internship Dec 25- Jan 25
